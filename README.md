@@ -33,10 +33,11 @@ The base URL for your backend is: `http://localhost:6001`
 
 As a user:
 
-1. When the app starts, I can see all plants.
-2. I can add a new plant to the page by submitting the form.
-3. I can mark a plant as "sold out".
-4. I can search for plants by their name and see a filtered list of plants.
+<!-- 1. When the app starts, I can see all plants. -->
+<!-- 2. I can add a new plant to the page by submitting the form. -->
+<!-- 3. I can mark a plant as "sold out". -->
+
+4. I can search for plants by their name and see a filtered list of plants
 
 ### Endpoints for Core Deliverables
 
@@ -107,8 +108,8 @@ them however you see fit!
 As a user:
 
 1. I can update the price of a plant and still see the updated price after
-   refreshing the page.
-2. I can delete a plant and it is still gone when I refresh the page.
+refreshing the page.
+<!-- 2. I can delete a plant and it is still gone when I refresh the page. -->
 
 ### Endpoints for Advanced Deliverables
 
@@ -148,3 +149,18 @@ Example Response:
 ```json
 {}
 ```
+
+Eucalyptus:
+https://www.afloral.com/cdn/shop/products/PSE039-GR-GY-Green-Grey-Spiral-Eucalyptus.jpg?v=1682456595&width=1500
+
+Flower Branch:
+https://www.afloral.com/cdn/shop/products/Artificial-Budding-Spring-Flower-Branch-in-Yellow.jpg?v=1681694856&width=750
+
+Aloe:
+https://www.afloral.com/cdn/shop/products/Faux-Aloe-Plant.jpg?v=1666104949&width=1500
+
+Daisy:
+https://www.afloral.com/cdn/shop/products/WhiteCosmosFlowers.jpg?v=1675266996&width=1500
+
+Blackberry:
+https://www.afloral.com/cdn/shop/products/FSB183-PL-Wilk-Fake-Raspberry.jpg?v=1682437630&width=1500

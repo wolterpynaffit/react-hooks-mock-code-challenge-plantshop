@@ -21,6 +21,7 @@ button {
   font-family: inherit;
   border: none;
   cursor: pointer;
+  margin: 1rem;
 }
 
 button.primary {
